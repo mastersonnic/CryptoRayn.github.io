@@ -4,7 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const claimStatusElement = document.getElementById('claim-status');
     const timerInterval = 1000; // 1 segundo
     const claimIntervalHours = 1;
-    const appsScriptUrl = 'https://script.google.com/home/projects/1Zsn78X08Vtn_Z1rmjtnLyQxKhgrAEVcKyG_ts-xBfDNxJApddwqOd_kZ/edit?pli=1'; // ¡REEMPLAZA CON LA URL DE TU APPS SCRIPT!
+    const appsScriptUrl = 'https://script.google.com/macros/s/AKfycbztU5PV-BzHDr_5AhI9tMq7wh5LXetvHjVBPha3Vjw7odvWoCmxmv5xERM
+gtCp3An9xbw/exec'; // ¡REEMPLAZA CON LA URL DE TU APPS SCRIPT!
     let timer;
     let userEmail; // Variable para almacenar el correo electrónico del usuario
 
